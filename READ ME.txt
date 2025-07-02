@@ -1,0 +1,39 @@
+# 🛡️ Closet Cheats - v1.6 [PRIVATE BUILD]
+
+> ⚠️ Internal use only — uploaded for backup & testing.  
+> Last updated: **July 2025**  
+> Status: ✅ Undetected
+
+---
+
+## 🧠 Features
+
+- ✅ **Silent Aimbot** (adjustable FOV/smoothness)
+- ✅ **ESP / Wallhack** (box, skeleton, name)
+- ✅ **No Recoil / Spread Remover**
+- ✅ **Auto Injector** (works with most anti-cheats)
+- ✅ **VAC + EAC + Vanguard bypass** (kernel spoof)
+
+---
+
+## 📁 Files Included
+
+- `Closet_Cheats.vbs` – launcher (run as admin)
+- `instructions.txt` – setup guide
+- `changelog.md` – recent updates
+
+---
+
+## 📦 Instructions
+
+1. Launch game **first**
+2. Run `Closet_Cheats.vbs` as **Administrator**
+3. Wait 10–15s for injection confirmation
+4. Press `F7` to toggle menu in-game
+
+---
+
+## 🧊 Notes
+
+- Built using **C++/VBS Hybrid Script**
+- Tested on: Windows 10/11, CSGO
